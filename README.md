@@ -18,9 +18,9 @@ The project’s goal is twofold:
 
 • Second, to mobilize the just mentioned approach to:
 
-  o assess the likelihood a top management team vacancy is filled with a
+    o assess the likelihood a top management team vacancy is filled with a
 female manager;
 
-  o assess how and to what extent the just the estimated likelihood has
+    o assess how and to what extent the just the estimated likelihood has
 changed over the last decades and across countries/cultures; o estimate the consequences of top management team gender
 composition on companies’ economic and financial performance
