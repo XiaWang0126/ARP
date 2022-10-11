@@ -15,9 +15,12 @@ Specific Aims
 The project’s goal is twofold:
 
 • First, helping DLRC define a new, data-science oriented approach to explain/predict the change in gender composition of publicly listed companies’ top management teams;
+
 • Second, to mobilize the just mentioned approach to:
+
   o assess the likelihood a top management team vacancy is filled with a
 female manager;
+
   o assess how and to what extent the just the estimated likelihood has
 changed over the last decades and across countries/cultures; o estimate the consequences of top management team gender
 composition on companies’ economic and financial performance
