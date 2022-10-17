@@ -1,4 +1,4 @@
-# Female Leadership ARP
+# Female Leadership Applied Research Project
 
 ## PROJECT SPECIFICATION
 
